@@ -1,0 +1,7 @@
+description,code,U_base,GHG_floor_kgCO2m2,Service_Life_floor,Reference Service life
+"concrete floor, old",FLOOR_AS1,2.9,113,30,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
+"concrete floor, renovated",FLOOR_AS2,0.28,157,30,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
+"concrete floor, new",FLOOR_AS3,0.25,180,30,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
+"concrete floor, old - basement (includes excavation)",FLOOR_AS4,2.9,248,60,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
+"concrete floor, renovated - basement (includes excavation)",FLOOR_AS5,0.28,292,60,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
+"concrete floor, new - basement (includes excavation)",FLOOR_AS6,0.25,315,60,"SIA, “SIA 2032 Graue Energie von Gebäuden,” no. 2010. Schweizerischer Ingenieur- und Architektenverein, Zürich, 2010."
